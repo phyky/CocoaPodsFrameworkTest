@@ -1,0 +1,6 @@
+framework module PHYFrameworkTest {
+  umbrella header "PHYFrameworkTest.h"
+
+  export *
+  module * { export * }
+}
